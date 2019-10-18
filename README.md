@@ -1,4 +1,4 @@
 # cplusplus
-My code in c++ language
+Code in c++ language
 
-1. Program tiket kasir untuk mempermudah pembeli voucher wifi bersifat stattic harga 
+Program tiket kasir untuk mempermudah pembeli voucher wifi bersifat static harga. 
